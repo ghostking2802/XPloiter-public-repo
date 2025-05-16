@@ -1,4 +1,3 @@
-![Screenshot From 2025-04-21 12-08-39](https://github.com/user-attachments/assets/40aa0a24-ad03-46a2-a9d1-d44c0dfcb388)![Screenshot From 2025-04-21 12-06-20](https://github.com/user-attachments/assets/1aade45b-b4fd-4f32-b79d-97934ad58e3a)
 # XPloiter - Crime Scene Digital Evidence Collector
 
 XPloiter is an advanced Python and Bash-powered forensic toolkit tailored for field deployment using Raspberry Pi. It provides a complete GUI-driven and automated system for acquiring, analyzing, and mapping digital evidence from live and static sources at a crime scene.
@@ -100,25 +99,12 @@ XPloiter/
 g Screenshot From 2025-04-21 12-06-20.png…]()
 ![Screenshot From 2025-04-21 12-08-29](https://github.com/user-attachments/assets/ba1ba456-187a-4cde-801a-f5e5d6778347)
 ![Uploadi![Screenshot From 2025-04-21 12-15-41](https://github.com/user-attachments/assets/62d318cf-73b2-4ad1-a92b-d18c3fe41d5d)
+![Screenshot From 2025-04-21 12-08-39](https://github.com/user-attachments/assets/40aa0a24-ad03-46a2-a9d1-d44c0dfcb388)![Screenshot From 2025-04-21 12-06-20](https://github.com/user-attachments/assets/1aade45b-b4fd-4f32-b79d-97934ad58e3a)
 ng Screenshot From 2025-04-21 12-08-39.png…]()
 ![Screenshot From 2025-04-21 12-17-08](https://github.com/user-attachments/assets/78653e4b-0ad2-4ee2-85b0-af290892687b)
+![Screenshot From 2025-04-21 12-08-39](https://github.com/user-attachments/assets/40aa0a24-ad03-46a2-a9d1-d44c0dfcb388)![Screenshot From 2025-04-21 12-06-20](https://github.com/user-attachments/assets/1aade45b-b4fd-4f32-b79d-97934ad58e3a)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 💡 Usage Example
+# 💡 Usage Example
 
 ```bash
 python3 main.py
